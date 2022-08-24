@@ -7,9 +7,11 @@ import {
   TextField,
   Typography,
 } from "@mui/material";
-import React from "react";
+import React, { useState } from "react";
 
 const MediaBuzzDataUp = () => {
+  const [data, setdata] = useState();
+
   return (
     <div>
       <Container>
