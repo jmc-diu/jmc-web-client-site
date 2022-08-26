@@ -17,7 +17,7 @@ const MediaBuzzDataUp = () => {
       <Container>
         <Typography variant="h4" gutterBottom>
           This is <span style={{ color: "#16a085" }}>Media Buzz Data</span>{" "}
-          uploads area is.....
+          uploads area is here.....
         </Typography>
 
         <Grid
